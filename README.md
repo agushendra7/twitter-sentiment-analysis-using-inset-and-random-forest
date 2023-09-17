@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Using Inset Lexicon and Random Forest Classifier
+# Twitter Sentiment Analysis Using InSet Indonesia Sentiment Lexicon and Random Forest Classifier
 
 I conducted a comparison of word weighting using Count Vectorizer and TF-IDF, in classifying sentiment on tweets of motorcycle racing events at Mandalika Circuit. The dataset was taken from Twitter of tweets from February 04, 2022, to March 27, 2022. Then the dataset is cleaned to get a clean dataset that will be used in the next stage, using text preprocessing techniques. After that, sentiment labeling will be carried out, using `Inset Lexicon`. The last stage is data modeling. Data modeling is done using the `Random Forest Classifier` method to get the final result in the form of a classification model and the results of the comparison between `Count Vectorizer and TF-IDF` word weighting. 
 
