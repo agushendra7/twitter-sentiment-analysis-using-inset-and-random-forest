@@ -40,4 +40,4 @@ At this stage, there are four stages including `Data Division`, `Word Weighting`
 
 * `dataset/tweet.xlsx`: The dataset used.
 * `dataset/kamus_positive.xlsx`: List of positive words.
-* `dataset/kamus_positive.xlsx`: List of negative words.
+* `dataset/kamus_negative.xlsx`: List of negative words.
