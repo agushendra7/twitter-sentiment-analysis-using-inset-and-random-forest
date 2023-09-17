@@ -36,7 +36,7 @@ At this stage, there are four stages including `Data Division`, `Word Weighting`
 3. `Data Classification` => The dataset will be classified into three categories positive, negative, and neutral. In this research, the data classification stage uses the `Random Forest` algorithm, `Random Forest` is a classifier consisting of a collection of structured tree classifiers where each tree throws voting units for the most popular class in input x. In other words, `Random Forest` consists of a set of decision trees, where the collection of decision trees is used to classify data into a class.
 4. `Model Visualization` => In this evaluation, there are three categories or classes in the classification model so that the resulting `Confusion Matrix` has an ordo of 3x3, where the matrix table consists of actual and predicted data, through the `Confusion Matrix`, the average value of `accuracy, precision, and recall` is obtained. In model visualization using the library `Seaborn` and `Matplotlib`.
 
-## Information about other files
+## Information About Other Files
 
 * `dataset/tweet.xlsx`: The dataset used.
 * `dataset/kamus_positive.xlsx`: List of positive words.
